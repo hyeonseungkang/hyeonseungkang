@@ -1,1 +1,1 @@
-
+[![https://nodei.co/npm/virtual-printer.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/virtual-printer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/virtual-printer)
