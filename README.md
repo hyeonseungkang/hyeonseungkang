@@ -2,13 +2,13 @@
   <tr>
     <td>
       <a href="https://www.npmjs.com/package/virtual-printer">
-        <img width="100%" src="https://nodei.co/npm/virtual-printer.png?downloads=true&downloadRank=true&stars=true">
+        <img src="https://nodei.co/npm/virtual-printer.png?downloads=true&downloadRank=true&stars=true">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="/GitHub-pages01_2.png">
+      <img width="100%" src="/GitHub-pages01_2.png">
     </td>
   </tr>
 </table>
