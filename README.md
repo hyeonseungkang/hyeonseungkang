@@ -1,5 +1,16 @@
-[![HyeonseungKang's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hyeonseungkang&show_icons=true)](https://github.com/hyeonseungkang)
+```
+Welcome to Kang's Github profile.
+Pronunciation of the name(IPA): /çjʌ̹n/ /sʰɯŋ/ /ka̠ŋ/
+```
 
-<a href="/portfolio-hyeonseungkang.pdf">
-  <img src="/assets/portfolio-1.png" width="500">
-</a>
+## Portfolio
+
+https://hyeonseungkang.github.io
+
+## CV
+
+[HyeonseungKang-CV.pdf](https://hyeonseungkang.github.io/data/ko/HyeonseungKang-CV.pdf)
+
+## Github Statistics
+
+[![HyeonseungKang's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hyeonseungkang&show_icons=true&hide_title=true)](https://github.com/hyeonseungkang)
