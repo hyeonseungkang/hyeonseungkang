@@ -23,9 +23,10 @@ https://hyeonseungkang.github.io
 <span> / </span>
 <a href="https://hyeonseungkang.github.io#장학">장학</a>
 
-## CV
+## Static Submissions
 
-[HyeonseungKang-CV.pdf](https://hyeonseungkang.github.io/data/ko/HyeonseungKang-CV.pdf)
+- [HyeonseungKang-Portfolio.pdf](https://hyeonseungkang.github.io/data/ko/HyeonseungKang-Portfolio.pdf)
+- [HyeonseungKang-CV.pdf](https://hyeonseungkang.github.io/data/ko/HyeonseungKang-CV.pdf)
 
 ## Github Statistics
 
