@@ -28,6 +28,12 @@ https://hyeonseungkang.github.io
 - [HyeonseungKang-Portfolio.pdf](https://hyeonseungkang.github.io/data/ko/HyeonseungKang-Portfolio.pdf)
 - [HyeonseungKang-CV.pdf](https://hyeonseungkang.github.io/data/ko/HyeonseungKang-CV.pdf)
 
+## Links
+
+<a href="https://correctanswers.tistory.com">Blog</a>
+<span> / </span>
+<a href="https://www.youtube.com/@%EA%B0%95%ED%98%84%EC%8A%B9-t6o">Youtube</a>
+
 ## Github Statistics
 
 [![HyeonseungKang's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hyeonseungkang&show_icons=true&hide_title=true)](https://github.com/hyeonseungkang)
